@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpaslan</h1>
 <h3 align="center">A passionate SDET</h3>
 
-- 🌱 I’m currently learning **Spring Eco System**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **testing frameworks and structures**
 
